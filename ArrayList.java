@@ -9,8 +9,8 @@ public class ArrayList {
 	
 		int[] x = {a,b,c};
 		
-		for(int i = 0; i < x.length; i++);
-			System.out.println(x[]);
+		for (int i = 0; i < x.length;i++);
+			System.out.println(x[i]);					// waarom werkt dit niet? Ik zou deze arraylist graag willen laten draaien met een for loop.
 	}
 
 }
